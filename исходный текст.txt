@@ -1,0 +1,2 @@
+Atomic Image
+    Atomic image is a lightweight, immutable platform, designed with the sole purpose of running containerized applications. This can also be used in any public or private cloud environment. To learn more you can visit the Project Atomic project page.
